@@ -7,10 +7,10 @@
 * Team University: Informatics Institute of Technology (IIT Campus)
 
 * Team Members:
-  Yasith Lankesha @yasithlankesha24
-  Dulaksha Rajasekara @DKRajasekera
-  Thimali Waduge @TSHA20
-  Ishani Arunika @IshaniArunika
+    Yasith Lankesha @yasithlankesha24
+    Dulaksha Rajasekara @DKRajasekera
+    Thimali Waduge @TSHA20
+    Ishani Arunika @IshaniArunika
 
 * Repos link: https://github.com/yasithlankesha24/duothon_3.O.git
 * Submission Technology Stacks/Frameworks: Choose tags (ex:php html css MySQL )
