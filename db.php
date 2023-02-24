@@ -2,7 +2,11 @@
 $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = '';
+<<<<<<< HEAD
 $dbname = 'duothon';
+=======
+$dbname = 'cafetime';
+>>>>>>> origin/main
 //create a DB connection 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 //if the DB connection fails, display an error message and exit
