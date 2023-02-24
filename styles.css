@@ -132,7 +132,28 @@
     height: 0;
     transition: 0.3s;
   }
+  .new {
+    text-align: center;
+  }
   
+  .signin {
+    border: 0;
+    position: absolute;
+    right: 25%;
+    top: 87%;
+    border-radius: 8px;
+    outline: none;
+    width: 50%;
+    height: 56px;
+    padding: 0 16px;
+    background: #edeaf7;
+    color: #5a4f79;
+    margin: 8px 0;
+    font-family: inherit;
+    font-size: 16px;
+    transition: 0.4s;
+  }
+
   .alert.visible {
     height: 32px;
   }
