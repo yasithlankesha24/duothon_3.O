@@ -29,7 +29,12 @@
 			'$last_name','$email','$mnumber','$address','$postolcode','$psw')";
 
     if (mysqli_query($conn, $sql)) {
-       
+        echo "<h3>data stored in a database successfully."
+            . " Please browse your localhost php my admin"
+            . " to view the updated data</h3>";
+
+        echo nl2br("\n $userid\n$first_name\n $last_name\n "
+            . "$email\n $mnumber\n $address\n $postolcode\n $psw");
     } else {
         echo "ERROR: Hush! Sorry $sql. "
             . mysqli_error($conn);
