@@ -9,8 +9,8 @@
 body,html 
 {
 	padding-top:0;
-	background: url("coffeeshop_bacg.jpg") no-repeat center center fixed;
-	background-position: top;
+	background: url("Phamacy.jpeg") no-repeat center center fixed;
+	background-position: top; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;	
@@ -126,7 +126,7 @@ body,html
     text-align: center;
 }
 
-#medSerch{
+#medSerchBUT{
     width: 200px;
     padding: 15px 0;
     text-align: center;
@@ -139,5 +139,59 @@ body,html
     cursor: pointer;
     align-items: center;
 
-} 
+}
+#logbut{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 200px 10px 500px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #9e4e20;
+    background: transparent;
+    color: #da8b1c;
+    cursor: pointer;
+    align-items: center;
+}
+
      
+.content_contact{
+    align-items: center;
+    margin:0;
+	width:80%;
+    height:100%;
+	clear: left;
+	padding: 20px;
+	padding-top:50px;
+	margin-left:auto;
+	margin-right:auto;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.content_links{
+    background-color: #969393;
+    width: 100%;
+    padding: 20px;
+    margin:0;
+	width:80%;
+    height:100%;
+	clear: left;
+	padding: 20px;
+	padding-top:50px;
+	margin-left:auto;
+	margin-right:auto;
+     
+}
+
+.links{
+    margin:0;
+	width:70%;
+    height:60%;
+	clear: left;
+	padding: 20px;
+	padding-top:50px;
+    align-items: center;
+	margin-left:auto;
+	margin-right:auto;
+    
+}
